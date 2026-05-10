@@ -1,0 +1,19 @@
+#qrBox {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#qrBox canvas {
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.container{
+    width: 50%;
+    border-radius: 16px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
